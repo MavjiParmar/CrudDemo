@@ -1,0 +1,11 @@
+API Project instuction
+
+1>Open Contrado Solution
+2>Open package manager console 
+3>Execute below command
+  'Update-database'
+
+
+Angular Project Instruction
+1> npm i
+2> ng s
